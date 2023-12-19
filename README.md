@@ -1,2 +1,2 @@
 # Automated-HTML-and-CSS-Projects
-Projects for Automated HTML and CSS Course
+This repository is for the Tech Academy Automated Bootcamp course for HTML and CSS. 
